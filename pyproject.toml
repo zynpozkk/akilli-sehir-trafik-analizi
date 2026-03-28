@@ -1,0 +1,10 @@
+[project]
+name = "trafik_analizi"
+version = "0.1.0"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "matplotlib",
+    "numpy",
+    "requests"
+]
